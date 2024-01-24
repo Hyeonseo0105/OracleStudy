@@ -8,6 +8,7 @@ public class EmpVO {
 	private int mgr;
 	private String hiredate;
 	private int sal,comm,deptno;
+	
 	public int getEmpno() {
 		return empno;
 	}
